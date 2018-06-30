@@ -13,7 +13,7 @@ Mirko Torrisi, Manaz Kaleel and Gianluca Pollastri; bioRxiv 289033; doi: https:/
 
 ## Setup
 ```
-$ git clone https://github.com/mircare/Porter5/
+$ git clone https://github.com/mircare/Porter5/ --depth=1 && rm -rf Porter5/.git
 ```
 or
 ```
